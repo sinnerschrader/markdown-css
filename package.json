@@ -1,0 +1,11 @@
+{
+  "name": "markdown-css-themes",
+  "version": "1.0.0",
+  "description": "* [Light](http://jasonm23.github.com/markdown-css-themes/index.html) * [Foghorn](http://jasonm23.github.com/markdown-css-themes/foghorn.html) * [Swiss](http://jasonm23.github.com/markdown-css-themes/swiss.html)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
