@@ -6,6 +6,10 @@
   "scripts": {
     "build": "./build.sh"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@git.sinnerschrader.com:team-ux/markdown-css.git"
+  },
   "author": {
     "name": "Team UX",
     "email": "team-ux@sinnerschrader.com"
