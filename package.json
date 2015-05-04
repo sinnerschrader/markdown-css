@@ -1,11 +1,18 @@
 {
   "name": "markdown-css-themes",
-  "version": "1.0.0",
-  "description": "* [Light](http://jasonm23.github.com/markdown-css-themes/index.html) * [Foghorn](http://jasonm23.github.com/markdown-css-themes/foghorn.html) * [Swiss](http://jasonm23.github.com/markdown-css-themes/swiss.html)",
+  "version": "1.0.1",
+  "description": "Neatly packaged markdown themes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "./build.sh"
   },
-  "author": "",
-  "license": "ISC"
+  "author": {
+    "name": "Team UX",
+    "email": "team-ux@sinnerschrader.com"
+  },
+  "contributors": [{
+    "name": "Mario Nebl",
+    "email": "mario.nebl@sinnerschrader.com"
+  }],
+  "license": "MIT"
 }
