@@ -1,5 +1,7 @@
 # Markdown css theme collection
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sinnerschrader/markdown-css.svg)](https://greenkeeper.io/)
+
 * [Light](http://jasonm23.github.com/markdown-css-themes/index.html)
 * [Foghorn](http://jasonm23.github.com/markdown-css-themes/foghorn.html)
 * [Swiss](http://jasonm23.github.com/markdown-css-themes/swiss.html)
